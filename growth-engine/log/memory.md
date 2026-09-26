@@ -5,6 +5,7 @@ Add one line per entry inside the marked blocks, dated. Anything under Notes is 
 
 ## Decisions
 <!-- GE:DECISIONS:START -->
+- 2026-09-26 content pillars: transformation & feeling, behind the scenes, the ego trap, your story
 <!-- GE:DECISIONS:END -->
 
 ## What worked
