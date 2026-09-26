@@ -2,14 +2,17 @@
 
 Rebuilt from the folder after every change. Do not edit by hand.
 
-No track chosen yet, so only the files every founder needs are listed.
+Track: b2c
 
 | file | gate | status | bytes | count |
 |---|---|---|---|---|
-| brain/founder-brain.md | gate A | missing | 0 | - |
+| brain/founder-brain.md | gate A | ok | 4370 | - |
 | engines/content/content-30.md | gate B | missing | 0 | - |
 | engines/content/content-30.csv | gate B | missing | 0 | - |
 | engines/content/rss-feeds.md | gate B | missing | 0 | - |
+| engines/audience/dm-openers.md | gate C | missing | 0 | - |
+| engines/audience/hook-bank.md | gate C | missing | 0 | - |
+| engines/audience/inbound-scripts.md | gate C | missing | 0 | - |
 | engines/ops/ops-workflow.md | gate C | missing | 0 | - |
 | engines/ops/ghl-values.md | - | missing | 0 | - |
 | engines/plan/90-day-plan.md | - | missing | 0 | - |
