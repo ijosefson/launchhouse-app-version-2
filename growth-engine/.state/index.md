@@ -23,4 +23,4 @@ Track: b2c
 | people/ | gate C | missing | - | 0 |
 | inbox/uploads/ | - | - | - | 0 files |
 | brain/voice-samples/ | - | - | - | 0 files |
-| drafts/ | - | - | - | 0 files |
+| drafts/ | - | - | - | 1 files |
